@@ -1,0 +1,17 @@
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/bin/Debug/net10.0/OrderEngine.Infrastructure.deps.json
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/bin/Debug/net10.0/OrderEngine.Infrastructure.runtimeconfig.json
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/bin/Debug/net10.0/OrderEngine.Infrastructure.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/bin/Debug/net10.0/OrderEngine.Infrastructure.pdb
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/bin/Debug/net10.0/OrderEngine.Domain.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/bin/Debug/net10.0/OrderEngine.Domain.pdb
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.csproj.AssemblyReference.cache
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.AssemblyInfoInputs.cache
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.AssemblyInfo.cs
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.csproj.CoreCompileInputs.cache
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEng.B50CA243.Up2Date
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/refint/OrderEngine.Infrastructure.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.pdb
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.genruntimeconfig.cache
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/ref/OrderEngine.Infrastructure.dll

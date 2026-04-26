@@ -1,0 +1,15 @@
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/bin/Debug/net10.0/OrderEngine.Application.deps.json
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/bin/Debug/net10.0/OrderEngine.Application.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/bin/Debug/net10.0/OrderEngine.Application.pdb
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/bin/Debug/net10.0/OrderEngine.Domain.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/bin/Debug/net10.0/OrderEngine.Domain.pdb
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEngine.Application.csproj.AssemblyReference.cache
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEngine.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEngine.Application.AssemblyInfoInputs.cache
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEngine.Application.AssemblyInfo.cs
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEngine.Application.csproj.CoreCompileInputs.cache
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEng.1FDBA360.Up2Date
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEngine.Application.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/refint/OrderEngine.Application.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/OrderEngine.Application.pdb
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Application/obj/Debug/net10.0/ref/OrderEngine.Application.dll
