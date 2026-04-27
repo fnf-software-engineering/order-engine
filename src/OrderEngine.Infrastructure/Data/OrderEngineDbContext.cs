@@ -11,6 +11,10 @@ public class OrderEngineDbContext : DbContext
     
     public DbSet<Company> Companies => Set<Company>();
     public DbSet<Branch> Branches => Set<Branch>();
+    public DbSet<Customer> Customers => Set<Customer>();
+    public DbSet<Supplier> Suppliers => Set<Supplier>();
+    public DbSet<ThirdBranch> ThirdBranches => Set<ThirdBranch>();
+    public DbSet<ThirdParty> ThirdParties => Set<ThirdParty>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -84,6 +84,6 @@ public class CompanyConfiguration : IEntityTypeConfiguration<Company>
 
         builder.Property(c => c.UpdatedAt)
             .HasColumnName("data_alteracao");
+        
     }
-    
 }

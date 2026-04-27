@@ -9,3 +9,4 @@
 /home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Domain/obj/Debug/net10.0/refint/OrderEngine.Domain.dll
 /home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Domain/obj/Debug/net10.0/OrderEngine.Domain.pdb
 /home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Domain/obj/Debug/net10.0/ref/OrderEngine.Domain.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Domain/obj/Debug/net10.0/OrderEngine.Domain.sourcelink.json

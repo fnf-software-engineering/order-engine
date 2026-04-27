@@ -2,7 +2,7 @@ namespace OrderEngine.Domain.Entities;
 
 public class Branch
 {
-    public Guid IdBranch { get; set; }
+    public Guid IdBranch { get; set; } =  Guid.NewGuid();
     public Guid IdCompany { get; set; }
     public string Code { get; set; } = String.Empty;
     public string BranchName { get; set; } = String.Empty;
@@ -25,5 +25,5 @@ public class Branch
 
     public Company? Company { get; set; } = null!;
 
-
+    public ICollection<ThirdBranch>? ThirdParties { get; set; } = new List<ThirdBranch>();
 }

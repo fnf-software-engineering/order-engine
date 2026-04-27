@@ -2,7 +2,7 @@ namespace OrderEngine.Domain.Entities;
 
 public class Company
 {
-    public Guid IdCompany { get; set; }
+    public Guid IdCompany { get; set; } = Guid.NewGuid();
     
     public string CompanyName { get; set; } = String.Empty;
     public string? TradeName { get; set; }
@@ -24,5 +24,5 @@ public class Company
     public DateTime? UpdatedAt { get; set; }
 
     public ICollection<Branch> Branches { get; set; } = new List<Branch>(); 
-
+    public ICollection<ThirdParty> ThirdParties { get; set; } = new List<ThirdParty>();
 }

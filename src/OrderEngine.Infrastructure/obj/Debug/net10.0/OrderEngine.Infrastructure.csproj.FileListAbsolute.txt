@@ -15,3 +15,4 @@
 /home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.pdb
 /home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.genruntimeconfig.cache
 /home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/ref/OrderEngine.Infrastructure.dll
+/home/frrx6z/Documentos/OrderEngine/src/OrderEngine.Infrastructure/obj/Debug/net10.0/OrderEngine.Infrastructure.sourcelink.json
